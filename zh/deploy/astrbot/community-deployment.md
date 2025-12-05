@@ -2,6 +2,15 @@
 
 > [!WARNING]
 > AstrBot 官方不保证这些部署方式的安全性和稳定性。
+## NAS油条综合性脚本
+
+综合了文档里的所有安装方式。
+以及一些linux的常用工具。
+AstrBot在 基础工具/bot机器人相关/AstrBot
+一键食用脚本
+```bash
+bash -c "$(curl -L https://gitee.com/nasyt/nasyt-linux-tool/raw/master/nasyt.sh)"
+```
 
 ## Linux 一键部署脚本
 
